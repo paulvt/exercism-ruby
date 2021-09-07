@@ -24,7 +24,7 @@ Speaker.echo("Hello")   #=> "Hello ... Hello"
 
 ## Loops
 
-There are several ways to write loops in Ruby, but as we tend to use enumeration rather than looping in general, the most commonly seen loop perhaps the `while` loop:
+There are several ways to write loops in Ruby, but as we tend to use enumeration rather than looping in general, the most commonly seen loop perhaps is the `while` loop:
 
 ```ruby
 counter = 0
